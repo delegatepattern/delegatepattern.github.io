@@ -1,0 +1,48 @@
+baseURL = "https://particlefun.com/"
+languageCode = "en-us"
+title = "Particle Fun"
+theme = "hyde-hyde"
+summarylength = 60
+
+[params]
+  description = "iOS Architect"
+  themeColor = "theme-base-0d"
+  copyright = "Particle Fun"
+  highlightjs = true
+  highlightjsstyle = "xcode"
+  
+[params.social]
+	email = "kasem@particlefun.com"
+	github = "delegatepattern"
+
+
+## Main Menu
+
+[[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 100
+    url = "/"
+
+[[menu.main]]
+    name = "Posts"
+    weight = 200
+    identifier = "posts"
+    url = "/posts/"
+
+[[menu.main]]
+    name = "Work with me"
+    identifier = "guarantee"
+    weight = 290
+    url = "/unbeatable-guarantee/"
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

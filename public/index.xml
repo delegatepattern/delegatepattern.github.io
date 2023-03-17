@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Delegate Pattern</title>
+    <link>https://delegatepattern.com/</link>
+    <description>Recent content on Delegate Pattern</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jan 2017 15:14:26 -0500</lastBuildDate><atom:link href="https://delegatepattern.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finally I Cracked the Code</title>
+      <link>https://delegatepattern.com/posts/finally-i-cracked-the-code/</link>
+      <pubDate>Fri, 27 Jan 2017 15:14:26 -0500</pubDate>
+      
+      <guid>https://delegatepattern.com/posts/finally-i-cracked-the-code/</guid>
+      <description>Finally I wrote in Russian right
+Well, I finally did it.
+
+This is my greatest accomplishment of 2016
+
+But I think wins come in all sizes — big wins and small.
+I feel good about my writing. It took me over a year to get good. I don’t really care how many people made fun of me for my writing (trust me, I know how horrible they look).</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://delegatepattern.com/about/</link>
+      <pubDate>Thu, 04 Feb 2016 07:47:31 -0500</pubDate>
+      
+      <guid>https://delegatepattern.com/about/</guid>
+      <description>&amp;ldquo;I&amp;rsquo;ll help your business build powerful software, unstoppable conversion, and unbeatable success.&amp;rdquo; Hi, my name is Kasem. Senior software consultant with over 15 years of experience.
+I help specialized, successful software and SaaS companies create high-quality mobile apps with expertise-driven software consulting.
+
+2016 - Producing new educational material.
+
+Have questions? send me a private message.</description>
+    </item>
+    
+    <item>
+      <title>Code Encapsulation in iOS With Swift</title>
+      <link>https://delegatepattern.com/posts/code-encapsulation-in-ios-with-swift/</link>
+      <pubDate>Mon, 04 Jan 2016 07:17:21 -0500</pubDate>
+      
+      <guid>https://delegatepattern.com/posts/code-encapsulation-in-ios-with-swift/</guid>
+      <description>One of the places where most iOS developers make object oriented design mistakes is putting all UI code inside view controllers.
+This will lead to an unmanageable and massive view controller. Thus, this clearly violates the MVC pattern guideline.
+Let’s be real. You found your way here because you have an interest to know how to make your view controller cleaner and separate concerns and responsibilities.</description>
+    </item>
+    
+    <item>
+      <title>An UNBEATABLE Guarantee</title>
+      <link>https://delegatepattern.com/unbeatable-guarantee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://delegatepattern.com/unbeatable-guarantee/</guid>
+      <description>I start every business relationship with my 7-Day Unbeatable 100% Money-Back Guarantee.
+Try my software consulting service for a full 7-days, 100% risk-free. If you don&amp;rsquo;t LOVE it, I insist that you get 100% of your money back. I&amp;rsquo;ll even eat the credit-card processing fees.
+In short: You will get your money back and keep all the work completed as my gift to you.</description>
+    </item>
+    
+  </channel>
+</rss>
