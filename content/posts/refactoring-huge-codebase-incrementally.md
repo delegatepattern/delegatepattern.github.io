@@ -1,7 +1,7 @@
 ---
 title: "How to Refactor Huge Codebase Incrementally"
 date: 2023-03-18T08:12:35-06:00
-draft: true
+draft: false
 ---
 
 Today's topic about refactoring code incrementally without breaking the entire codebase.
